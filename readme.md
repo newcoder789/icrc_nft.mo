@@ -2,7 +2,8 @@
 
 ## Install
 ```
-mops add icrc_nft-mo
+mops add icrc-nft-mo
+
 ```
 
 ## Deployment
